@@ -1,0 +1,19 @@
+.box{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    border: 1px solid black;
+    box-shadow: 0px 1px black;
+    position: relative;
+    padding: 2px;
+    /* Span Label */
+    span{
+        color: aqua;
+    }
+    
+    /*paragraph*/
+
+    p{
+        font-size: 12px;;
+    }
+
+}
